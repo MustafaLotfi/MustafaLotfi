@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MustafaLotfi
-- 👀 I’m interested in Artificial Intelligence, Robotics, Mathematics, Control Engineering and Psychology fields :))
-- 🌱 I’m currently learning mentioned fields above in Autonomous Vehicles area.
+- 👋 Hi, I’m Mostafa Lotfi
+- 👀 I’m interested in Artificial Intelligence, Robotics, Mathematics and Control Engineering fields.
+- 🌱 I’m currently using aforementioned fields in Autonomous Vehicles area.
 - 💞️ I’m looking to collaborate on Autonomous Vehicles literature.
 
 <!---
