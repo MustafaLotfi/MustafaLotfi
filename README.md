@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mostafa Lotfi
+- 👋 Hi, I’m Mostafa
 - 👀 I’m interested in Artificial Intelligence, Robotics, Mathematics and Control Engineering fields.
 - 🌱 I’m currently using aforementioned fields in Autonomous Vehicles area.
 - 💞️ I’m looking to collaborate on Autonomous Vehicles literature.
