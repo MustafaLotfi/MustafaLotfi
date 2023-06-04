@@ -8,6 +8,6 @@ MustafaLotfi/MustafaLotfi is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourUsername&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaLotfi&theme=radical)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourUsername&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MustafaLotfi&show_icons=true&theme=radical)
