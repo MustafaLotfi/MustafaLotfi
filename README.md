@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Mostafa
-- 👀 I’m interested in Artificial Intelligence, Robotics, Mathematics and Control Engineering fields.
-- 🌱 I’m currently using aforementioned fields in Autonomous Vehicles area.
-- 💞️ I’m looking to collaborate on Autonomous Vehicles literature.
+- 👀 I’m interested in Artificial Intelligence, Robotics and Autonomous Vehicles fields.
+- 💞️ I’m looking to collaborate in these areas.
 
 <!---
 MustafaLotfi/MustafaLotfi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
