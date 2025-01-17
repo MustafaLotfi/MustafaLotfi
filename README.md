@@ -24,9 +24,12 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 ## 🔭 Projects
 Here are a few projects I've been working on:
 
-- [**Paper Piano**](https://github.com/MustafaLotfi/project1): Make a piano using papers and AI
-- [**Owleye**](https://github.com/MustafaLotfi/project2): Convert your webcam to an Eye Tracker
+- [**Contribution On TensorFlow**](https://github.com/tensorflow/models/pull/11187): Had a merged pull request on TensorFlow Models repository
+- [**Paper Piano**](https://github.com/MustafaLotfi/Paper-Piano): Make a piano using papers and AI
 - [**Driver State Detection**](https://github.com/e-candeloro/Driver-State-Detection): Detect driver's drowsiness or distraction
+- [**Owleye**](https://github.com/MustafaLotfi/Owleye): Convert your webcam to an Eye Tracker
+
+
 
 ## 📫 Get in Touch
 - [LinkedIn](https://www.linkedin.com/in/MustafaLotfi)
